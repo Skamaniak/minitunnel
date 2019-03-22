@@ -1,0 +1,10 @@
+{
+  "Tunnel": {
+    "IpAddresses": "10.0.0.1/16"
+  },
+  "Listener": {
+    "Host": "0.0.0.0",
+    "Port": 8080,
+    "ConnectionType": "tcp"
+  }
+}
